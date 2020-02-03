@@ -18,12 +18,6 @@
  $ cut -d: -f1 /etc/passwd
  ```
  
- ### Add user
-
-```bash
- $ sudo adduser new_username
- ```
- 
   ### Add user
 
 ```bash
