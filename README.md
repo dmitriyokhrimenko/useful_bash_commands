@@ -11,3 +11,9 @@
 ```bash
  $ groups [username]
  ```
+
+### Users list
+
+```bash
+ $ cut -d: -f1 /etc/passwd
+ ```
