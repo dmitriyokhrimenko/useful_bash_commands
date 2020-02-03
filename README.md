@@ -1,14 +1,8 @@
-# django_learn
+# Ubuntu
 
-### Useful commands 
+### Add user to group 
 
-*deactivate* — Exit out of the current Python virtual envirinment
-
-*workon* — List available virtual envirinments
-
-*workon* **<name_of_environment>** — Activate the specified Python virtual environment
-
-*rmvirtualenv* **<name_of_environment>** — Remove the specified virtual environment.
+*sudo usermod -a -G groupName userName*
 
 ### Prepare
    
