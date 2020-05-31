@@ -42,3 +42,8 @@
  ```bash
  $ ssh-keyscan 34.91.243.196 >> ~/.ssh/known_hosts 
  ```
+ 
+  ### Generate ssh key
+ ```bash
+ $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" 
+ ```
