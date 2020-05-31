@@ -37,3 +37,8 @@
 ```bash
  $ sudo passwd username 
  ```
+ 
+ ### Add host to known_hosts
+ ```bash
+ $ ssh-keyscan 34.91.243.196 >> ~/.ssh/known_hosts 
+ ```
