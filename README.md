@@ -1,5 +1,10 @@
 # Ubuntu
 
+### To just see octal file permissions on a GNU/Linux:
+```bash
+$ stat -c '%a' /etc/passwd
+```
+
 ### Add user to group 
 
 ```bash
