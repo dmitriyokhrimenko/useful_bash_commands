@@ -1,5 +1,10 @@
 # Ubuntu
 
+### To list the entire groups on Ubuntu
+```bash
+less /etc/group
+```
+
 ### To just see octal file permissions on a GNU/Linux:
 ```bash
 $ stat -c '%a' /etc/passwd
