@@ -1,5 +1,10 @@
 # Ubuntu
 
+### Install ansible galaxy dependencies
+```bash
+ansible-galaxy install -r requirements.yml
+```
+
 ### To list the entire groups on Ubuntu
 ```bash
 less /etc/group
